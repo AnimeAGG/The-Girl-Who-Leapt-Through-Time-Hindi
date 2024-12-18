@@ -1,0 +1,316 @@
+1
+00:00:59,730 --> 00:01:02,740
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Executive Producer
+
+<font size="65">Kadokawa Tsuguhiko</font></b></font></b></font>
+
+2
+00:01:12,830 --> 00:01:15,830
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Producers<font size="60">
+
+Inoue Shinichiro
+Egawa Shinya
+Kawashima Haruo
+Kawasaki Shiroharu
+Morimoto Yoshihisa
+Sakaki Shunto</font></b></font></b></font>
+
+3
+00:01:12,830 --> 00:01:15,830
+<font face="Aspen DB" size="70"><b>{\an7}<font size="48"><b>Production<font size="60">
+
+Maruta Jungo</font></b></font></b></font>
+
+4
+00:01:28,260 --> 00:01:31,260
+<font face="Aspen DB" size="70"><b>{\an9}<font size="48"><b>Based on the novel by
+
+<font size="60">Yasutaka Tsutsui</font></b></font></b></font>
+
+5
+00:02:22,610 --> 00:02:31,910
+<font face="Tahoma" size="120"><b><font size="117"><b><font face="Montreal-Serial-Medium"><font color="#e3e3e3"> The Girl Who Leapt Through Time</font></font></b></font></b></font>
+
+6
+00:02:36,540 --> 00:02:39,760
+<font face="Ebrima" size="48"><b>{\an8}Today, July 13th, is known as NICE day.</b></font>
+
+7
+00:02:39,760 --> 00:02:41,520
+<font face="Ebrima" size="48"><b>{\an8}What does that mean?</b></font>
+
+8
+00:02:40,710 --> 00:02:43,710
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Producers
+<font size="60">Saito Yuichiro
+Watanabe Takashi</font></b></font></b></font>
+
+9
+00:02:40,710 --> 00:02:43,710
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>General Production
+
+<font size="60">Yasuda Takeshi</font></b></font></b></font>
+
+10
+00:02:40,710 --> 00:02:43,710
+<font face="Aspen DB" size="70"><b>{\an1}<b>Planning
+
+<font size="60">Maruyama Masao</font></b></b></font>
+
+11
+00:02:41,520 --> 00:02:44,290
+<font face="Ebrima" size="48"><b>{\an8}From 7(NAna)-1(Ichi)-3(San), you get NICE(na-i-su).</b></font>
+
+12
+00:03:12,410 --> 00:03:15,410
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Screenplay
+
+<font size="60">Okudera Satoko</font></b></font></b></font>
+
+13
+00:03:20,410 --> 00:03:23,420
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Music
+
+<font size="60">Yoshida Shigeru</font></b></font></b></font>
+
+14
+00:03:20,410 --> 00:03:23,420
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Theme Song
+
+<font size="60">Oku Hanako</font></b></font></b></font>
+
+15
+00:03:36,720 --> 00:03:39,730
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Photography
+
+<font size="60">Tomita Yoshihiro</font></b></font></b></font>
+
+16
+00:03:36,720 --> 00:03:39,730
+<font face="Aspen DB" size="70"><b>{\an1}<b>Sound Director
+
+<font size="60">Ohara Yoshio</font></b></b></font>
+
+17
+00:03:36,720 --> 00:03:39,730
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Editor
+
+<font size="60">Nishiyama Shigeru</font></b></font></b></font>
+
+18
+00:03:53,990 --> 00:03:56,990
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Computer Graphics
+
+<font size="60">Hayashi Hiromi</font></b></font></b></font>
+
+19
+00:03:53,990 --> 00:03:56,990
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Color Coordinator
+
+<font size="60">Kamata Chikako</font></b></font></b></font>
+
+20
+00:03:53,990 --> 00:03:56,990
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Art Director
+
+<font size="60">Yamamoto Fumi</font></b></font></b></font>
+
+21
+00:04:11,380 --> 00:04:14,380
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Character Designer
+
+<font size="60">Sadamoto Yoshiyuki</font></b></font></b></font>
+
+22
+00:04:11,380 --> 00:04:14,380
+<font face="Aspen DB" size="70"><b>{\an9}<font size="48"><b>Animation Directors 
+
+<font size="60">Aoyama Hiroyuki
+<font size="60">Kubota Chikai
+<font size="60">Ishihama Shinji</font></font></font></b></font></b></font>
+
+23
+00:04:52,630 --> 00:04:56,640
+<font face="Aspen DB" size="70"><b>{\an1}<font size="48"><b>Director
+
+<font size="60">Hosoda Mamoru</font></b></font></b></font>
+
+24
+00:05:19,530 --> 00:05:24,540
+<font face="Howie's_Funhouse" size="57" color="#fff8e8"><b>{\an8}<font size="95"><font face="whatever it takes"><font color="#a1b5a8"></font></font></font></b>Tempura</font>
+
+25
+00:06:34,150 --> 00:06:37,150
+<font face="Howie's_Funhouse" size="57" color="#fff8e8"><b>{\an2}Try harder</b></font>
+
+26
+00:21:44,090 --> 00:21:46,430
+<font face="Ebrima" size="48"><b>{\an8}Tuesday, July 12th.</b></font>
+
+27
+00:21:46,430 --> 00:21:48,060
+<font face="Ebrima" size="48"><b>{\an8}Today, Japanese Standard Time...</b></font>
+
+28
+00:23:49,380 --> 00:23:54,230
+<font face="Ebrima" size="48"><b>{\an8}So, why is today, July 13th, known as NICE day?</b></font>
+
+29
+00:40:33,810 --> 00:40:37,690
+<font face="Howie's_Funhouse" size="57" color="#fff8e8"><b>{\an8}Today something really great happened!
+ What should I do?</b></font>
+
+30
+00:40:39,660 --> 00:40:41,900
+<font face="Howie's_Funhouse" size="57" color="#fff8e8"><b>What, what happened? Tell me!</b></font>
+
+31
+00:58:46,980 --> 00:58:52,010
+<font face="Howie's_Funhouse" size="57" color="#fff8e8"><b>{\an8}</b>Looks like I got confessed
+ to. Aren't you jealous?</font>
+
+32
+01:08:54,990 --> 01:08:58,260
+<font face="Howie's_Funhouse" size="57" color="#fff8e8"><b>{\an8}A Picture of White Plum, Two Camellia and Chrysanthemum.
+Currently in restoration.</b></font>
+
+33
+01:19:18,840 --> 01:19:24,930
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Walking home and fooling around</i></font>
+
+34
+01:19:24,930 --> 01:19:30,290
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I was teasing you for no reason</i></font>
+
+35
+01:19:30,970 --> 01:19:38,760
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I wanted to see different faces of you</i></font>
+
+36
+01:19:41,610 --> 01:19:46,890
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}With big eyes and voice about to cry</i></font>
+
+37
+01:19:47,730 --> 01:19:54,690
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Even now it squeezes my heart</i></font>
+
+38
+01:19:54,690 --> 01:20:07,400
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I was chasing you in a crowd of strangers</i></font>
+
+39
+01:20:09,900 --> 01:20:15,990
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I was looking for unchanging things</i></font>
+
+40
+01:20:15,990 --> 01:20:22,090
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I won't forget you of that day</i></font>
+
+41
+01:20:22,090 --> 01:20:28,170
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Some thoughts can cross the time</i></font>
+
+42
+01:20:28,170 --> 01:20:36,580
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I want to see you right now</i></font>
+
+43
+01:33:43,820 --> 01:33:53,090
+<font face="Tahoma" size="120"><b><font size="117"><b><font face="Montreal-Serial-Medium"><font color="#e3e3e3"> The Girl Who Leapt Through Time</font></font></b></font></b></font>
+
+44
+01:34:04,750 --> 01:34:11,450
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Your back, running on the playground</i></font>
+
+45
+01:34:11,450 --> 01:34:17,730
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}was freer than the clouds floating in the sky</i></font>
+
+46
+01:34:17,730 --> 01:34:24,430
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}and even the square letters in my notebook</i></font>
+
+47
+01:34:24,430 --> 01:34:31,050
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}all were as if illuminated by the light</i></font>
+
+48
+01:34:33,100 --> 01:34:39,460
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I didn't know what love means</i></font>
+
+49
+01:34:39,460 --> 01:34:45,300
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}but that time that will never return</i></font>
+
+50
+01:34:45,300 --> 01:34:55,670
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}explained to me the meaning of it</i></font>
+
+51
+01:34:57,700 --> 01:35:04,270
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I will store the days I spent with you in my heart</i></font>
+
+52
+01:35:04,270 --> 01:35:10,780
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}so that I won't have to remember them</i></font>
+
+53
+01:35:10,780 --> 01:35:17,290
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Even if one day I'll fall in love with someone else</i></font>
+
+54
+01:35:17,290 --> 01:35:27,840
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}you will be always special and dear to me</i></font>
+
+55
+01:35:27,840 --> 01:35:36,890
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}This season will come around again</i></font>
+
+56
+01:35:36,890 --> 01:35:43,390
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Meeting you inside the endless time</i></font>
+
+57
+01:35:43,390 --> 01:35:49,860
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}more than anything, made me stronger</i></font>
+
+58
+01:35:49,860 --> 01:35:56,390
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Even if I reach the tomorrow of the dream</i></font>
+
+59
+01:35:56,390 --> 01:36:07,050
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}you will be always special and dear to me</i></font>
+
+60
+01:36:07,050 --> 01:36:16,410
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}This season will arrive again</i></font>
+
+61
+01:36:37,670 --> 01:36:49,260
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}In the summer when you said "I will never forget you"</i></font>
+
+62
+01:36:50,040 --> 01:37:05,460
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}the time has flown and now I've shed my tears</i></font>
+
+63
+01:37:07,060 --> 01:37:13,650
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}I will store the days I spent with you in my heart</i></font>
+
+64
+01:37:13,650 --> 01:37:20,230
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}so that I won't have to remember them</i></font>
+
+65
+01:37:20,230 --> 01:37:26,720
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}Even if one day I'll fall in love with someone else</i></font>
+
+66
+01:37:26,720 --> 01:37:37,590
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}you will be always special and dear to me</i></font>
+
+67
+01:37:37,590 --> 01:37:47,090
+<font face="Sadness" size="48" color="#fffdf0"><i>{\an7}This season will come around again</i></font>
+
